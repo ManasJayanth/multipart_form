@@ -29,6 +29,7 @@ depends: [
   "pecu"       {>= "0.4"}
   "mrmime"
   "fmt"
+  "faraday"
   "ke"         {>= "0.4"}
   "alcotest"   {with-test}
 ]
